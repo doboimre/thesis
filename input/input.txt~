@@ -1,0 +1,13 @@
+#graph
+FIELD: <GRAPH>
+graphID: directed
+
+
+#nodes
+FIELD: <NODE>
+nodeA, 12.3
+nodeB, 45.6
+
+#edges
+FIELD: <EDGE>
+edgeA, nodeA, nodeB, 19.7
